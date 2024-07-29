@@ -1,0 +1,3 @@
+nox==2024.4.15
+pyyaml==6.0.1
+pytoolbelt-toolkit==0.4.0
