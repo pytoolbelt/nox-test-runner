@@ -12,6 +12,9 @@ Included python versions are
 
 `nox` is installed in a virtual environment located at `/app/venv/` using `python 3.10`. The `python` and `nox` commands are then added to the $PATH variable. Which means in your projects docker-compose file, when you run `python` is will be referencing the python located at `/app/venv/bin/python`
 
+## Docker Hub
+https://hub.docker.com/r/pytoolbelt/nox-test-runner
+
 ## Official Pytoolbelt Github
 https://github.com/pytoolbelt/pytoolbelt-cli
 
